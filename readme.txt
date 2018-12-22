@@ -9,3 +9,5 @@
 fenzhi3偷偷加了一行999999，merge到master后偷偷把自己删除了
 fenzhi4再偷偷加一行00000000
 这一行进行Commit
+这一行进行Add
+这一行就放在工作区
